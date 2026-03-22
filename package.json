@@ -1,0 +1,16 @@
+{
+  "name": "ai-assisted-programming-vanilla-js",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Minimal vanilla JS playground with an AI service abstraction.",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "vanilla-js",
+    "ai",
+    "demo"
+  ]
+}
+
